@@ -1,2 +1,19 @@
 # ConEmu
 settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
